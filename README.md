@@ -1,6 +1,7 @@
+
 # cnodejs-by-vue
 
-> A Vue.js project
+> 一个用Vue.js写的cnodejs webapp。
 
 ## Build Setup
 
